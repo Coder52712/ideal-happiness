@@ -1,2 +1,3 @@
 # ideal-happiness
-print("2 + 2")
+me = "1 2 3"
+print(me)
